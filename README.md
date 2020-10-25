@@ -1,2 +1,2 @@
 # N Queen 
- Solving N-queens problem using hill-climbing and its variants
+ Solved N-queens problem using hill-climbing search algorithm and its variants
